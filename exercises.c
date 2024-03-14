@@ -59,7 +59,7 @@ int *filterEvenNumbers(int arr[], int size, int *newSize) {
     }
     
   }
-  return newSize; 
+  return arrp; 
 }
 
 /*
